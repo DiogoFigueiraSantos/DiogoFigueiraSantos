@@ -9,11 +9,11 @@
 
 ## Tecnologias que eu uso no meu dia !
 <div style="display: inline-block;"><br/>
-    <align="center" alt"Html5" height"30" width"40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"alt="Html5"/>
-    <align="center" alt"Css" height"30" width"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" />       
-    <align="center" alt"js" height"30" width"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-    <align="center" alt"React" height"30" width"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-    <align="center" alt"node" height"30" width"40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <align="center" alt"Html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"alt="Html5"/>
+    <align="center" alt"Css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />       
+    <align="center" alt"js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+    <align="center" alt"React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <align="center" alt"node" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
                     
 </div>
 
