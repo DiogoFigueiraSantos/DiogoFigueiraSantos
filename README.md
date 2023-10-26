@@ -16,5 +16,6 @@
     <img align="center"height="30" width="40" alt"node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
                     
 </div>
+![snake animation](https://github.com/DiogoSantoszxx/DiogoSantoszxx/blog/output/github-contribution-grid-snake.svg)
 
 
