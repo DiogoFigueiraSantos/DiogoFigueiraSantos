@@ -13,7 +13,7 @@
     <img align="center"height="30" width="40" alt"js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
     <img align="center"height="30" width="40" alt"React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
     <img align="center"height="30" width="40" alt"node" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-    <img align="center"height="30" width="40" alt"python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+    <img align="center"height="30" width="40" alt"python" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
                     
 </div>
 
